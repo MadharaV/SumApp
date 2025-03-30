@@ -1,0 +1,2 @@
+# SumApp
+Extractive summarization app
